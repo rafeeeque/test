@@ -4,7 +4,7 @@
   "name": "HomeCity",
   "short_name": "HomeCity",
   "version": "com.rafeeque.mhtapi",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "description": "App will profile information about the people of ar area.",
   "author": "Pixcel Media",
   "icons": [],
   "start_url": "index.html"
