@@ -1,11 +1,11 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "myHomeTown",
-  "short_name": "myHomeTown",
+  "name": "HomeCity",
+  "short_name": "HomeCity",
   "version": "com.rafeeque.mhtapi",
   "description": "Hello World sample application that responds to the deviceready event.",
-  "author": "PhoneGap Team",
+  "author": "Pixcel Media",
   "icons": [],
   "start_url": "index.html"
 }
