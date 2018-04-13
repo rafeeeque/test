@@ -2,7 +2,7 @@
 <widget id="com.rafeeque.mhtapi" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>HomeCity</name>
     <description>
-        App will profile information about the people of ar area.
+        App will give the information about the people of the an area.
     </description>
     <author email="mediapixcel@gmail.com" href="http://rafeeque.in">
         Pixcel Media
@@ -18,5 +18,5 @@
     <allow-intent href="*" />
     <allow-navigation href="*" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="16" />
+    <preference name="android-minSdkVersion" value="14" />
 </widget>

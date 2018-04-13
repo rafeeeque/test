@@ -1,8 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.rafeeque.mhtapi" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <feature name="Globalization">
+        <param name="android-package" value="org.apache.cordova.globalization.Globalization" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+    </feature>
     <name>HomeCity</name>
     <description>
-        App will profile information about the people of ar area.
+        App will give the information about the people of the an area.
     </description>
     <author email="mediapixcel@gmail.com" href="http://rafeeque.in">
         Pixcel Media
@@ -38,5 +47,5 @@
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="16" />
+    <preference name="android-minSdkVersion" value="14" />
 </widget>

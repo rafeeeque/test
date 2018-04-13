@@ -27,6 +27,18 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
     }
   },
   "dependent_plugins": {
