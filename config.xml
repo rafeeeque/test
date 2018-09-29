@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.rafeeque.mhtapi" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>HomeCity</name>
+    <name>Home City</name>
     <description>
         App will give the information about the people of the an area.
     </description>
@@ -16,7 +16,6 @@
     <plugin name="cordova-plugin-device" source="npm" />
     <plugin name="cordova-plugin-dialogs" source="npm" />
     <plugin name="cordova-plugin-file" source="npm" />
-    <plugin name="cordova-plugin-geolocation" source="npm" />
     <plugin name="cordova-plugin-globalization" source="npm" />
     <plugin name="cordova-plugin-inappbrowser" source="npm" />
     <plugin name="cordova-plugin-network-information" source="npm" />
@@ -108,4 +107,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <plugin name="cordova-plugin-whitelist" />
+    <plugin name="cordova-plugin-geolocation" spec="~2.4.3" />
 </widget>

@@ -1,8 +1,8 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "HomeCity",
-  "short_name": "HomeCity",
+  "name": "Home City",
+  "short_name": "Home City",
   "version": "com.rafeeque.mhtapi",
   "description": "App will give the information about the people of the an area.",
   "author": "Pixcel Media",

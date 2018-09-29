@@ -18,6 +18,9 @@
     },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
     }
   },
   "dependent_plugins": {}
