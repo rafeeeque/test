@@ -2,7 +2,7 @@
 <widget id="in.rafeeque.mhtapi" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Home City</name>
     <description>
-        App will give the information about the people of the a particular area.
+        An application which can provice the information about the people of an area.
     </description>
     <author email="mediapixcel@gmail.com" href="http://rafeeque.in">
         Pixcel Media
@@ -97,8 +97,6 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-intent href="*" />
-    <allow-navigation href="*" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
