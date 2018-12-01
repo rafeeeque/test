@@ -39,13 +39,13 @@
     },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
     }
   },
   "dependent_plugins": {
     "cordova-plugin-compat": {
-      "PACKAGE_NAME": "com.rafeeque.mhtapi"
-    },
-    "cordova-plugin-file": {
       "PACKAGE_NAME": "com.rafeeque.mhtapi"
     }
   }

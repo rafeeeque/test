@@ -21,6 +21,24 @@
     },
     "cordova-plugin-geolocation": {
       "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.rafeeque.mhtapi"
     }
   },
   "dependent_plugins": {}
