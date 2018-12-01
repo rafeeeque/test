@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="in.rafeeque.mhtapi" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="in.pixcelmedia.homecity" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Home City</name>
     <description>
-        An application which can provice the information about the people of an area.
+        Home City can provide the information about the people of a particular area.
     </description>
     <author email="mediapixcel@gmail.com" href="http://rafeeque.in">
         Pixcel Media
@@ -10,6 +10,7 @@
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
+    <preference name="android-targetSdkVersion"  value="26" />
     <plugin name="cordova-plugin-battery-status" source="npm" />
     <plugin name="cordova-plugin-camera" source="npm" />
     <plugin name="cordova-plugin-media-capture" source="npm" />
